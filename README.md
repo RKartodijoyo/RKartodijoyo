@@ -2,7 +2,7 @@
 - 👀 I’m interested in Studying, about technology and Industrial Automation
 - 🌱 I’m currently learning C, Python, Node Js, Arduino, Node Red, Raspberry Pi ,PLC CLX 5000 , HMI (FTVIEW ME)
 - 💞️ I’m looking to collaborate on make HMI Framework in web and Mini Scada with open source program
-- 📫 How to reach me rizaldikartodijo@gmail.com
+- 📫 How to reach me rizalkartodijoyo@gmail.com
 
 
 
